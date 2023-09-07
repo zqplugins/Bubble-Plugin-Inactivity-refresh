@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "web scraping",
+        "1": "media",
+        "2": "data (things)",
+        "3": "compliance",
+        "4": "analytics"
+    },
+    "demo_page": "https://bubble.io/page?type=page&name=refresher&id=regex-example-js&test_plugin=1667956374566x209262553490522100_current&tab=tabs-1",
+    "description": "Simple Action to randomize the action of picking something.\n\nYou can set the probabilities to get yes over no.\n\nIt will set the boolean true or false, on bubble yes or no.\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1667959002819x704079298503503900/giphy%20%2833%29.gif",
+    "license": "open_source",
+    "link": "https://zeroqode.com/",
+    "name": "Inactivity refresh",
+    "plugin_instructions": "1. Install Plugin on your app.\n2. Set the refresh after x time of inactivity or turn it off and use the state after x time of inactivity"
+}
