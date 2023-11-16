@@ -1,0 +1,36 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Inactivity refresh",
+    "fields": {
+        "AAD": {
+            "caption": "time",
+            "editor": "DynamicValue",
+            "name": "time",
+            "rank": 0,
+            "value": "number"
+        },
+        "AAE": {
+            "caption": "refresh",
+            "default_val": true,
+            "editor": "Checkbox",
+            "name": "refresh",
+            "rank": 1
+        }
+    },
+    "icon": "ion-android-refresh",
+    "states": {
+        "AAF": {
+            "caption": "trigger",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "trigger",
+            "value": "boolean"
+        }
+    }
+}
