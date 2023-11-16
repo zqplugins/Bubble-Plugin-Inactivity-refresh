@@ -1,4 +1,4 @@
 function(instance, context) {
-	function initialize(_0x522db6,_0x540b03){}
+	function initialize(_0x342284,_0x50fc93){}
 	return initialize(instance, context);
 }
